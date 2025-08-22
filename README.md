@@ -2,7 +2,7 @@
 
 This repository documents my cyber kill chain presentation as part of the Certified Cyber Security Analyst program at ICT Academy of Kerala (Technopark Phase-1, Trivandrum). Materials are published here strictly for portfolio and verification purposes.
 
-Repository Structure:
+**Repository Structure:**
 
 Task 13/
 
@@ -10,7 +10,7 @@ Task 13/
 
 /- README.md - Documentation
 
-Rights and Usage:
+**Rights and Usage:**
 
 All reports, documentation, and related artifacts are the intellectual property of Ajmal M S and ICT Academy of Kerala.
 
