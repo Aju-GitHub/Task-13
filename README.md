@@ -4,7 +4,7 @@ This repository documents my cyber kill chain presentation as part of the Certif
 
 **Repository Structure:**
 
-Task 13/
+Task-13/
 
 /- Cyber Kill Chain.pptx - Presentation file
 
